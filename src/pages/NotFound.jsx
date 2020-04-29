@@ -1,12 +1,11 @@
 import React from 'react';
 
-const Page3 = props => {
+const NotFound = props => {
     return (
         <div>
-            <h2>I bring the pasta.</h2>
-            <p>Page 3</p>
+            <p>You took a wrong turn, mate.</p>
         </div>
     );
 };
 
-export default Page3;
+export default NotFound;
